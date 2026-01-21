@@ -1,0 +1,10 @@
+**/.vscode/
+**/.venv/
+**/.idea/
+**/*.log
+**/node_modules/
+**/dist/
+**/build/
+**/out/
+**/*.env
+**/*.local
